@@ -1,0 +1,48 @@
+.navbar{
+    background-color: #7DDD6E;
+    color: white;
+    height: 60px;
+}
+
+
+.container-maps{
+    margin-top: 10%;
+    margin: 20%;
+}
+
+.card{
+    height: 200px;
+    width: 450px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.two-card{
+    margin-top: 5%;
+}
+
+.main-title{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.container-caroulix{
+    width: 60%;
+}
+
+.caroulix{
+    margin-top: 10%;
+}
+
+a{
+    font-family: 'Playfair Display SC', serif;
+}
+
+.link-page{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.logo-menu{
+    height: 30px;
+}
