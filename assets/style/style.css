@@ -46,3 +46,44 @@ a{
 .logo-menu{
     height: 30px;
 }
+
+.video{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+iframe{
+    height: 500px;
+    width: 900px;
+}
+
+.container-page{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100vh;
+    width: 100%;
+    background-image: url('/assets/img/img1.png');
+    background-size: cover;
+    background-position: center;
+    /* filter: blur(1px); */
+}
+
+section{
+    display: flex;
+}
+
+.left{
+    background-color: blue;
+    height: 80%;
+    width: 40%;
+    margin: 20px;
+}
+
+.right{
+    background-color: red;
+    height: 80%;
+    width: 60%;
+    margin: 20px;
+}
