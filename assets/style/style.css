@@ -6,10 +6,11 @@ html, body{
     background-color: #7DDD6E;
     color: white;
     height: 60px;
+    margin-bottom: 1;
 }
 
 .footer{
-    text-align: center;
+    align-items: center;
 }
 
 
@@ -38,9 +39,9 @@ html, body{
     width: 100%;
 }
 
-/* .caroulix{
-    margin-top: 30px;
-} */
+.caroulix{
+    margin: none !important;
+}
 
 a{
     font-family: 'Playfair Display SC', serif;
@@ -90,6 +91,20 @@ iframe{
     height: 80%;
     width: 60%;
     margin: 20px;
+}
+
+.title-merde{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto auto;
+    width: fit-content;
+    height: fit-content;
+    padding-bottom: 20%;
+    color: white;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 1);
 }
 
 
