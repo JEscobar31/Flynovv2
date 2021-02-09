@@ -86,12 +86,18 @@ iframe{
 
 
 
+/*----------EXPRESS----------*/
+.container-horaire{
+    margin: 10%;
+}
 
 
 
 
 
-/*--------------------*/
+
+
+/*----------ATTRACTIVE----------*/
 .section {
 	position: relative;
 	height: 100vh;
