@@ -1,7 +1,15 @@
+html, body{
+    overflow-x: hidden;
+}
+
 .navbar, .footer{
     background-color: #7DDD6E;
     color: white;
     height: 60px;
+}
+
+.footer{
+    text-align: center;
 }
 
 
@@ -27,12 +35,12 @@
 }
 
 .container-caroulix{
-    width: 60%;
+    width: 100%;
 }
 
-.caroulix{
-    margin-top: 10%;
-}
+/* .caroulix{
+    margin-top: 30px;
+} */
 
 a{
     font-family: 'Playfair Display SC', serif;
