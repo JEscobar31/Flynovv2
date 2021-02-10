@@ -7,6 +7,11 @@ html, body{
     color: white;
     height: 60px;
     margin-bottom: 1;
+	font-family: 'Lexend Mega', sans-serif;
+}
+
+.navbar-brand{
+	font-family: 'Lexend Mega', sans-serif;
 }
 
 .footer{
@@ -44,7 +49,7 @@ html, body{
 }
 
 a{
-    font-family: 'Playfair Display SC', serif;
+    font-family: 'Lexend Mega', sans-serif;
 }
 
 .link-page{
